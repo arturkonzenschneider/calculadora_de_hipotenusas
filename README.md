@@ -6,8 +6,8 @@ pkg install git
 
 git clone https://github.com/arturkonzenschneider/calculadora_de_hipotenusas
 
-cd calculador_de_hipotenusas
+cd calculadora_de_hipotenusas
 
-cd 'calculador_de_hipotenusas'
+cd 'calculador de hipotenusas'
 
 python main.py
