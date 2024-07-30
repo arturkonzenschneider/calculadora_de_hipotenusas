@@ -8,6 +8,6 @@ git clone https://github.com/arturkonzenschneider/calculadora_de_hipotenusas
 
 cd calculadora_de_hipotenusas
 
-cd 'calculador de hipotenusas'
+cd 'calculador de hipotenusa'
 
 python3 main.py
