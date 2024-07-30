@@ -2,7 +2,8 @@ Olá pessoal essa é a claculadora de hipotenusas instale ela no termux com esse
 
 pkg install git 
 
-git clone https://github.com/arturkonzenschneider
+git clone https://github.com/arturkonzenschneider/calculadora_de_hipotenusas/tree/main
 
-cd
+cd calculador_de_hipotenusas
 
+bash calculador_de_hipotenusas
