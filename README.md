@@ -10,4 +10,4 @@ cd calculadora_de_hipotenusas
 
 cd 'calculador de hipotenusas'
 
-python main.py
+python3 main.py
