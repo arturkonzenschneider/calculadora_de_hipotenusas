@@ -8,4 +8,6 @@ git clone https://github.com/arturkonzenschneider/calculadora_de_hipotenusas
 
 cd calculadora_de_hipotenusas
 
+ls calculadora_de_hipotenusas
+
 bash calculadora_de_hipotenusas
